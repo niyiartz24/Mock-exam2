@@ -1,0 +1,530 @@
+{
+  "course": "CHM 231",
+  "sections": [
+    {
+      "section": "Phase Rule and Definitions",
+      "questions": [
+        {
+          "question": "What is the general law governing phase equilibria?",
+          "options": {
+            "A": "Hess's Law",
+            "B": "Gibbs Phase Rule",
+            "C": "Raoult's Law",
+            "D": "Henry's Law"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In the formula F = C - P + 2, what does 'P' represent?",
+          "options": {
+            "A": "Pressure",
+            "B": "Number of components",
+            "C": "Number of phases",
+            "D": "Degree of freedom"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A phase is defined as a region having what type of properties?",
+          "options": {
+            "A": "Variable",
+            "B": "Uniform",
+            "C": "Gaseous",
+            "D": "Microscopic"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Any mixture of gases always constitutes how many phases?",
+          "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "As many as the number of gases",
+            "D": "Zero"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A mixture of water and ether forms two liquid layers. How many phases does this system have?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Under high pressure, how many different crystalline forms of ice can exist?",
+          "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Six",
+            "D": "Eight"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The number of components is defined as the minimum number of what to describe the composition?",
+          "options": {
+            "A": "Chemical species",
+            "B": "Physical phases",
+            "C": "Independent chemical constituents",
+            "D": "Degrees of freedom"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "How many components are in a system consisting of ice, water, and water vapour?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "0"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "In the decomposition of CaCO3 (s) to CaO (s) and CO2 (g), how many phases are present?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In the decomposition of CaCO3 at equilibrium, how many components are needed to specify the system?",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Degrees of Freedom and Water System",
+      "questions": [
+        {
+          "question": "What are degrees of freedom in a system at equilibrium?",
+          "options": {
+            "A": "The number of chemical substances",
+            "B": "Independent intensive variables to define the system",
+            "C": "The total volume and mass of the system",
+            "D": "The number of layers in a liquid"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In a single-component, single-phase system, what is the value of F?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A system with F = 2 is described as being:",
+          "options": {
+            "A": "Invariant",
+            "B": "Uni-variant",
+            "C": "Bi-variant",
+            "D": "Tri-variant"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In the one-phase region of water, how many degrees of freedom exist?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "If two phases of water co-exist in equilibrium, how many variables must be specified to define the system?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "At the triple point of water, the number of degrees of freedom is:",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The phase diagram shows the regions where various phases are:",
+          "options": {
+            "A": "Physically identical",
+            "B": "Chemically reacting",
+            "C": "Thermodynamically stable",
+            "D": "In constant motion"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "What does the line OC represent in the phase diagram of water?",
+          "options": {
+            "A": "Liquid-Vapour equilibrium",
+            "B": "Solid-Vapour equilibrium",
+            "C": "Solid-Liquid equilibrium",
+            "D": "Triple point"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "At the critical temperature (Tc) of water:",
+          "options": {
+            "A": "Ice and water are indistinguishable",
+            "B": "Liquid and vapour become indistinguishable",
+            "C": "The system becomes invariant",
+            "D": "The pressure drops to zero"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The triple point for water occurs at what temperature?",
+          "options": {
+            "A": "0.00°C",
+            "B": "0.0098°C",
+            "C": "100.00°C",
+            "D": "-0.0098°C"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The equilibrium vapour pressure at the triple point of water is:",
+          "options": {
+            "A": "1 atm",
+            "B": "4.58 mmHg",
+            "C": "760 mmHg",
+            "D": "101325 Pa"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A system that is not the most stable equilibrium under given conditions is in:",
+          "options": {
+            "A": "Dynamic equilibrium",
+            "B": "Metastable equilibrium",
+            "C": "Chemical equilibrium",
+            "D": "Static equilibrium"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Sulphur System and Phase Transitions",
+      "questions": [
+        {
+          "question": "How many stable phases does Sulphur have in its phase diagram?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The four phases of sulphur are Rhombic, Monoclinic, Liquid, and:",
+          "options": {
+            "A": "Plasma",
+            "B": "Vapour",
+            "C": "Amorphous",
+            "D": "Plastic"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which triple point in the sulphur system is considered metastable?",
+          "options": {
+            "A": "Rhombic-Monoclinic-Liquid",
+            "B": "Rhombic-Monoclinic-Vapour",
+            "C": "Rhombic-Liquid-Vapour",
+            "D": "Monoclinic-Liquid-Vapour"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The monoclinic form of sulphur can only exist in which region?",
+          "options": {
+            "A": "Circular",
+            "B": "Rectangular",
+            "C": "Triangular (BCF)",
+            "D": "Vapour phase"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In a 2-component system, how many lines represent two phases in equilibrium if there are 4 phases total?",
+          "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "At the triple point of water (0.00603 atm and 273.16 K), which condition is met?",
+          "options": {
+            "A": "Gl = Gv",
+            "B": "Gs = Gl = Gv",
+            "C": "H = S",
+            "D": "P = T"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The Clausius-Clapeyron equation dP/dT = ΔH / (TΔV) applies to which process?",
+          "options": {
+            "A": "Reversible phase transition",
+            "B": "Irreversible chemical reaction",
+            "C": "Expansion of an ideal gas",
+            "D": "Constant volume heating"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "When approximating for the gas phase, we assume V_vapour is:",
+          "options": {
+            "A": "Equal to V_liquid",
+            "B": "Much smaller than V_liquid",
+            "C": "Much larger than V_liquid",
+            "D": "Zero"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A plot of ln P versus 1/T for a liquid-vapour system gives a slope of:",
+          "options": {
+            "A": "ΔH/R",
+            "B": "-ΔH/R",
+            "C": "R/ΔH",
+            "D": "T/ΔH"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "For the water-ice system, the melting point decreases as pressure:",
+          "options": {
+            "A": "Decreases",
+            "B": "Increases",
+            "C": "Stays constant",
+            "D": "Fluctuates"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "According to Hess's law, ΔH_sublimation equals:",
+          "options": {
+            "A": "ΔH_fus - ΔH_vap",
+            "B": "ΔH_fus + ΔH_vap",
+            "C": "ΔH_vap / ΔH_fus",
+            "D": "2 * ΔH_fus"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The solid-vapour curve is steeper than the liquid-vapour curve because:",
+          "options": {
+            "A": "ΔH_sub > ΔH_vap",
+            "B": "ΔH_sub < ΔH_vap",
+            "C": "T is higher",
+            "D": "V_solid is zero"
+          },
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "section": "Eutectic Systems and Chemical Potential",
+      "questions": [
+        {
+          "question": "In a simple Eutectic diagram, point 'E' represents:",
+          "options": {
+            "A": "Pure component A",
+            "B": "Pure component B",
+            "C": "The Eutectic point where 3 phases coexist",
+            "D": "The boiling point"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "An Eutectic point is considered what kind of point on a constant pressure diagram?",
+          "options": {
+            "A": "Invariant",
+            "B": "Uni-variant",
+            "C": "Bi-variant",
+            "D": "Metastable"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Chemical potential is also known as:",
+          "options": {
+            "A": "Molar entropy",
+            "B": "Molar enthalpy",
+            "C": "Molar free energy",
+            "D": "Molar volume"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Chemical potential represents the change in Gibbs free energy per mole added at constant:",
+          "options": {
+            "A": "Volume",
+            "B": "T, P, and other n_i",
+            "C": "Entropy",
+            "D": "Internal energy"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "For an open system, the Gibbs function depends on T, P, and:",
+          "options": {
+            "A": "Density",
+            "B": "Composition",
+            "C": "Velocity",
+            "D": "Area"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The relationship between ΔG and the equilibrium constant K is given by:",
+          "options": {
+            "A": "ΔG = RT K",
+            "B": "ΔG = -RT ln K",
+            "C": "ΔG = H + TS",
+            "D": "ΔG = PΔV"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Thermodynamics Laws and Calculations",
+      "questions": [
+        {
+          "question": "The Third Law of Thermodynamics states that the entropy of a pure crystalline substance is zero at:",
+          "options": {
+            "A": "0°C",
+            "B": "273.15 K",
+            "C": "0 K",
+            "D": "100°C"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "If a crystal has lattice defects at absolute zero, its entropy will be:",
+          "options": {
+            "A": "Zero",
+            "B": "Greater than zero",
+            "C": "Negative",
+            "D": "Infinite"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The total absolute entropy of a gas is the sum of all entropy changes from:",
+          "options": {
+            "A": "0 K to the boiling point",
+            "B": "Freezing point to boiling point",
+            "C": "Crystalline solid at 0 K to the gas state",
+            "D": "Standard state to 0 K"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In entropy calculations, ΔH_fus / Tf represents the entropy change during:",
+          "options": {
+            "A": "Vaporization",
+            "B": "Fusion (melting)",
+            "C": "Sublimation",
+            "D": "Heating"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Standard entropy change for a reaction is calculated by:",
+          "options": {
+            "A": "Reactants - Products",
+            "B": "Products + Reactants",
+            "C": "Sum(S_products) - Sum(S_reactants)",
+            "D": "S_products / S_reactants"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The molar enthalpy change ΔH can be regarded as:",
+          "options": {
+            "A": "Work done",
+            "B": "Total energy absorbed or evolved",
+            "C": "Degree of disorder",
+            "D": "Chemical potential"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "ΔG = ΔH - TΔS represents:",
+          "options": {
+            "A": "First Law",
+            "B": "Energy available to do work",
+            "C": "Internal energy",
+            "D": "Entropy of the universe"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A plot of ln K versus 1/T yields a straight line with a slope related to:",
+          "options": {
+            "A": "Entropy",
+            "B": "Enthalpy (ΔH)",
+            "C": "Volume",
+            "D": "Pressure"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "For 1 mole of a perfect gas, dG is equal to:",
+          "options": {
+            "A": "SdT",
+            "B": "VdP",
+            "C": "PdV",
+            "D": "TdS"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The term TΔS represents the energy involved in:",
+          "options": {
+            "A": "Doing work",
+            "B": "Organizing or ordering the system",
+            "C": "Changing the pressure",
+            "D": "Increasing mass"
+          },
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

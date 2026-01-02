@@ -1,0 +1,190 @@
+{
+"course": "GNS 201",
+"sections": [
+{
+"section": "Introduction to Writing",
+"questions": [
+{
+"question": "Which stage of writing involves getting and organising relevant materials like the topic and subject of discussion?",
+"options": {
+"A": "Drafting",
+"B": "Pre-Writing",
+"C": "Editing",
+"D": "Crafting"
+},
+"answer": "B"
+},
+{
+"question": "What is described as the 'best gift' a man can be given in the context of writing?",
+"options": {
+"A": "Wealth",
+"B": "A computer",
+"C": "Literacy",
+"D": "A library"
+},
+"answer": "C"
+},
+{
+"question": "The stage of writing where the first draft is revised for spelling and grammatical mistakes is called:",
+"options": {
+"A": "Communicating",
+"B": "Crafting",
+"C": "Editing",
+"D": "Planning"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Components and Types of Writing",
+"questions": [
+{
+"question": "Which structural component of good writing provides a general overview and moves from general to specific information?",
+"options": {
+"A": "Body",
+"B": "Conclusion",
+"C": "Introduction",
+"D": "Recommendations"
+},
+"answer": "C"
+},
+{
+"question": "In a paragraph, when every sentence is on the same subject, the writing is said to have:",
+"options": {
+"A": "Coherence",
+"B": "Unity",
+"C": "Complexity",
+"D": "Exposition"
+},
+"answer": "B"
+},
+{
+"question": "Which type of writing focuses on providing the meaning of words, phrases, or clauses?",
+"options": {
+"A": "Descriptive",
+"B": "Narrative",
+"C": "Argumentative",
+"D": "Definitive"
+},
+"answer": "D"
+},
+{
+"question": "Objective descriptive writing is most commonly found in which type of text?",
+"options": {
+"A": "Novels",
+"B": "Scientific writing",
+"C": "Personal letters",
+"D": "Poetry"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Narrative and Argumentative Essays",
+"questions": [
+{
+"question": "A narrator who is not a character in the story but knows everything about all characters is called:",
+"options": {
+"A": "First person",
+"B": "Protagonist",
+"C": "Omniscient",
+"D": "Antagonist"
+},
+"answer": "C"
+},
+{
+"question": "Which of these is a pitfall to avoid in argumentative essays?",
+"options": {
+"A": "Logical reasoning",
+"B": "Research",
+"C": "Tautology",
+"D": "Evidences"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Letter Writing and Reports",
+"questions": [
+{
+"question": "Which type of letter allows the use of abbreviations, slang, and contractions?",
+"options": {
+"A": "Formal",
+"B": "Semi-formal",
+"C": "Informal",
+"D": "Technical"
+},
+"answer": "C"
+},
+{
+"question": "In a formal letter, where is the sender's address usually located?",
+"options": {
+"A": "Bottom left",
+"B": "Top right",
+"C": "Top left",
+"D": "Bottom right"
+},
+"answer": "B"
+},
+{
+"question": "What is the appropriate complimentary close for a formal letter where the recipient is addressed as 'Dear Sir'?",
+"options": {
+"A": "Yours sincerely",
+"B": "Yours ever",
+"C": "Yours faithfully",
+"D": "Lots of love"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Literary Appreciation",
+"questions": [
+{
+"question": "A poem of 14 lines is known as a:",
+"options": {
+"A": "Ballad",
+"B": "Sonnet",
+"C": "Epic",
+"D": "Satire"
+},
+"answer": "B"
+},
+{
+"question": "A character that is fully developed, showing growth, successes, and failures, is described as:",
+"options": {
+"A": "Flat",
+"B": "Stoic",
+"C": "Round",
+"D": "Static"
+},
+"answer": "C"
+},
+{
+"question": "The literary device that compares two things using 'like' or 'as' is:",
+"options": {
+"A": "Metaphor",
+"B": "Hyperbole",
+"C": "Simile",
+"D": "Irony"
+},
+"answer": "C"
+},
+{
+"question": "Which genre of literature is written by a playwright?",
+"options": {
+"A": "Prose",
+"B": "Poetry",
+"C": "Drama",
+"D": "Novella"
+},
+"answer": "C"
+}
+]
+}
+]
+}

@@ -1,0 +1,280 @@
+{
+"course": "GNS 202",
+"sections": [
+{
+"section": "Introduction to Politics and Power",
+"questions": [
+{
+"question": "Who defined man as a 'political animal'?",
+"options": {
+"A": "Obafemi Awolowo",
+"B": "Aristotle",
+"C": "Harold Laski",
+"D": "Max Weber"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following is considered the 'currency of politics'?",
+"options": {
+"A": "Authority",
+"B": "Legitimacy",
+"C": "Power",
+"D": "Influence"
+},
+"answer": "C"
+},
+{
+"question": "The right to exercise power, as opposed to the use of force, is known as:",
+"options": {
+"A": "Influence",
+"B": "Authority",
+"C": "Sovereignty",
+"D": "Coercion"
+},
+"answer": "B"
+},
+{
+"question": "What type of legitimacy is based on legal recognition and constitutional provisions?",
+"options": {
+"A": "De Facto",
+"B": "Charismatic",
+"C": "Traditional",
+"D": "De Jure"
+},
+"answer": "D"
+},
+{
+"question": "Which scholar defined the state as an institution possessing the monopoly of the legitimate use of physical coercion?",
+"options": {
+"A": "Harold Laski",
+"B": "Aristotle",
+"C": "Max Weber",
+"D": "Baron de Montesquieu"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "The State and International Organizations",
+"questions": [
+{
+"question": "Which of the following is NOT a core characteristic of a state?",
+"options": {
+"A": "Government",
+"B": "Common Language",
+"C": "Territory",
+"D": "Sovereignty"
+},
+"answer": "B"
+},
+{
+"question": "The theory that states are a product of a contract between the people and a government is the:",
+"options": {
+"A": "Evolutionary theory",
+"B": "Divine rights theory",
+"C": "Social contract theory",
+"D": "Force theory"
+},
+"answer": "C"
+},
+{
+"question": "In what year did Nigeria join the United Nations?",
+"options": {
+"A": "1945",
+"B": "1960",
+"C": "1963",
+"D": "1970"
+},
+"answer": "B"
+},
+{
+"question": "Which organ of the United Nations has five permanent members with veto power?",
+"options": {
+"A": "General Assembly",
+"B": "Secretariat",
+"C": "Security Council",
+"D": "Trusteeship Council"
+},
+"answer": "C"
+},
+{
+"question": "Who were the instrumental leaders in the formation of ECOWAS in 1975?",
+"options": {
+"A": "Nnamdi Azikiwe and Tafawa Balewa",
+"B": "Yakubu Gowon and Gnassingbe Eyadema",
+"C": "Murtala Muhammed and Olusegun Obasanjo",
+"D": "Sani Abacha and Jerry Rawlings"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Political Ideologies and Systems",
+"questions": [
+{
+"question": "Which scholar is credited with coining the term 'ideology'?",
+"options": {
+"A": "Karl Marx",
+"B": "Destutt de Tracy",
+"C": "Adam Smith",
+"D": "John Locke"
+},
+"answer": "B"
+},
+{
+"question": "A system where the means of production are privately owned is known as:",
+"options": {
+"A": "Socialism",
+"B": "Communism",
+"C": "Capitalism",
+"D": "Fascism"
+},
+"answer": "C"
+},
+{
+"question": "Nigeria operated a Parliamentary system of government during which period?",
+"options": {
+"A": "1960-1966",
+"B": "1979-1983",
+"C": "1983-1993",
+"D": "1999-Present"
+},
+"answer": "A"
+},
+{
+"question": "In a confederate system of government, where is the bulk of power located?",
+"options": {
+"A": "The Central Government",
+"B": "The Component Units",
+"C": "The Judiciary",
+"D": "The Executive"
+},
+"answer": "B"
+},
+{
+"question": "The principle of 'Rule of Law' was popularized by which scholar?",
+"options": {
+"A": "A.V. Dicey",
+"B": "Baron de Montesquieu",
+"C": "Thomas Hobbes",
+"D": "Jean-Jacques Rousseau"
+},
+"answer": "A"
+}
+]
+},
+{
+"section": "Military in Nigerian Politics",
+"questions": [
+{
+"question": "Who led the first military coup d'état in Nigeria on January 15, 1966?",
+"options": {
+"A": "Aguiyi Ironsi",
+"B": "Kaduna Nzeogwu",
+"C": "Yakubu Gowon",
+"D": "Murtala Muhammed"
+},
+"answer": "B"
+},
+{
+"question": "Which Military Head of State introduced the Unitary system via Decree 34?",
+"options": {
+"A": "Johnson Aguiyi-Ironsi",
+"B": "Sani Abacha",
+"C": "Ibrahim Babangida",
+"D": "Abdulsalami Abubakar"
+},
+"answer": "A"
+},
+{
+"question": "The National Youth Service Corps (NYSC) was established in 1973 by which leader?",
+"options": {
+"A": "Murtala Muhammed",
+"B": "Olusegun Obasanjo",
+"C": "Yakubu Gowon",
+"D": "Shehu Shagari"
+},
+"answer": "C"
+},
+{
+"question": "Which military administration moved the seat of government from Lagos to Abuja in 1991?",
+"options": {
+"A": "Muhammadu Buhari",
+"B": "Ibrahim Babangida",
+"C": "Sani Abacha",
+"D": "Murtala Muhammed"
+},
+"answer": "B"
+},
+{
+"question": "The transition programme that led to Nigeria's Fourth Republic was conducted by:",
+"options": {
+"A": "Ibrahim Babangida",
+"B": "Sani Abacha",
+"C": "Abdulsalami Abubakar",
+"D": "Ernest Shonekan"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Elections and Public Administration",
+"questions": [
+{
+"question": "The first experience of elections in Nigeria occurred in 1922 under which constitution?",
+"options": {
+"A": "Richards Constitution",
+"B": "Macpherson Constitution",
+"C": "Clifford Constitution",
+"D": "Lyttleton Constitution"
+},
+"answer": "C"
+},
+{
+"question": "What was the name of the electoral body in Nigeria during the 1979 elections?",
+"options": {
+"A": "EC",
+"B": "FEDECO",
+"C": "NEC",
+"D": "INEC"
+},
+"answer": "B"
+},
+{
+"question": "An election where voters elect people who will in turn elect their representatives is called:",
+"options": {
+"A": "Direct Election",
+"B": "Indirect Election",
+"C": "Universal Suffrage",
+"D": "Plebiscite"
+},
+"answer": "B"
+},
+{
+"question": "The acronym POSDCORB in administrative theory was coined to represent functions of management. What does 'P' stand for?",
+"options": {
+"A": "Power",
+"B": "Politics",
+"C": "Planning",
+"D": "Personnel"
+},
+"answer": "C"
+},
+{
+"question": "Who is regarded as the father of Bureaucratic theory?",
+"options": {
+"A": "Frederick Taylor",
+"B": "Max Weber",
+"C": "Henri Fayol",
+"D": "Luther Gulick"
+},
+"answer": "B"
+}
+]
+}
+]
+}

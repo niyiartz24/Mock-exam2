@@ -1,0 +1,280 @@
+{
+"course": "CHM 211",
+"sections": [
+{
+"section": "Atomic Structure and Wave Mechanics",
+"questions": [
+{
+"question": "What is the lowest possible transition in the Brackett series when it absorbs energy?",
+"options": {
+"A": "3 to 6",
+"B": "4 to 3",
+"C": "5 to 7",
+"D": "4 to 5"
+},
+"answer": "D"
+},
+{
+"question": "Which of the following describes the region of space defined by a wavefunction?",
+"options": {
+"A": "Nucleus",
+"B": "Atomic orbital",
+"C": "Energy level",
+"D": "Quantum number"
+},
+"answer": "B"
+},
+{
+"question": "According to Bohr's theory, what happens when an electron undergoes a transition to an orbit of lower energy?",
+"options": {
+"A": "Energy is absorbed",
+"B": "Mass is lost",
+"C": "Radiation is emitted",
+"D": "The atom becomes unstable"
+},
+"answer": "C"
+},
+{
+"question": "In the study of the emission spectrum of the hydrogen atom, which series of lines is observed in the visible region?",
+"options": {
+"A": "Lyman series",
+"B": "Paschen series",
+"C": "Balmer series",
+"D": "Pfund series"
+},
+"answer": "C"
+},
+{
+"question": "The Heisenberg uncertainty principle states that it is impossible to know exactly which two properties of an electron at the same time?",
+"options": {
+"A": "Mass and charge",
+"B": "Momentum and position",
+"C": "Spin and energy",
+"D": "Wavelength and frequency"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Periodicity and Element Properties",
+"questions": [
+{
+"question": "Which element is considered the most electronegative in the periodic table?",
+"options": {
+"A": "Oxygen",
+"B": "Chlorine",
+"C": "Fluorine",
+"D": "Nitrogen"
+},
+"answer": "C"
+},
+{
+"question": "The energy change that occurs when one mole of electrons is added to one mole of gaseous atoms is called:",
+"options": {
+"A": "Ionization energy",
+"B": "Electron affinity",
+"C": "Electronegativity",
+"D": "Lattice energy"
+},
+"answer": "B"
+},
+{
+"question": "Which group of elements marks the beginning of the p-block?",
+"options": {
+"A": "Group IA",
+"B": "Group IIA",
+"C": "Group IIIA",
+"D": "Group VA"
+},
+"answer": "C"
+},
+{
+"question": "What is the general trend for electronegativity across a period from left to right?",
+"options": {
+"A": "It decreases",
+"B": "It increases",
+"C": "It remains constant",
+"D": "It fluctuates"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following elements is classified as a metalloid or semiconductor?",
+"options": {
+"A": "Aluminum",
+"B": "Boron",
+"C": "Sodium",
+"D": "Magnesium"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Chemical Bonding and Molecular Orbitals",
+"questions": [
+{
+"question": "According to Molecular Orbital Theory, why is the He2 molecule not formed?",
+"options": {
+"A": "Helium is a noble gas",
+"B": "Bonding orbital energy is cancelled by antibonding orbital energy",
+"C": "Helium lacks p-orbitals",
+"D": "The nuclei repel each other"
+},
+"answer": "B"
+},
+{
+"question": "Which theory explains the fact that O2 is paramagnetic?",
+"options": {
+"A": "Lewis dot theory",
+"B": "Valence bond theory",
+"C": "Molecular orbital theory",
+"D": "VSEPR theory"
+},
+"answer": "C"
+},
+{
+"question": "How many sp3d2 hybrid orbitals are formed during hybridization?",
+"options": {
+"A": "Four",
+"B": "Five",
+"C": "Six",
+"D": "Seven"
+},
+"answer": "C"
+},
+{
+"question": "What is the geometry associated with sp3d2 hybrid orbitals?",
+"options": {
+"A": "Tetrahedral",
+"B": "Trigonal bipyramidal",
+"C": "Octahedral",
+"D": "Square planar"
+},
+"answer": "C"
+},
+{
+"question": "In MO theory, the LCAO method stands for:",
+"options": {
+"A": "Linear Combination of Atomic Orbitals",
+"B": "Lateral Central Atomic Orientation",
+"C": "Light Constant Atomic Orbit",
+"D": "Long Covalent Association of Orbitals"
+},
+"answer": "A"
+}
+]
+},
+{
+"section": "Chemistry of Main Group Elements",
+"questions": [
+{
+"question": "What is the primary ore of aluminum used in the Hall-Heroult process?",
+"options": {
+"A": "Kernite",
+"B": "Bauxite",
+"C": "Ulexite",
+"D": "Sphalerite"
+},
+"answer": "B"
+},
+{
+"question": "Which aluminum alloy contains copper, magnesium, and manganese?",
+"options": {
+"A": "Steel",
+"B": "Bronze",
+"C": "Duralumin",
+"D": "Brass"
+},
+"answer": "C"
+},
+{
+"question": "Which boron compound is used as an abrasive and is similar to diamond in strength?",
+"options": {
+"A": "Borax",
+"B": "Boric acid",
+"C": "Boron nitride",
+"D": "Sodium borate"
+},
+"answer": "C"
+},
+{
+"question": "Which element in Group IIIA is a liquid at temperatures just above room temperature (29.8°C)?",
+"options": {
+"A": "Boron",
+"B": "Gallium",
+"C": "Indium",
+"D": "Thallium"
+},
+"answer": "B"
+},
+{
+"question": "Boron chemistry resembles which element due to a diagonal relationship?",
+"options": {
+"A": "Aluminum",
+"B": "Silicon",
+"C": "Beryllium",
+"D": "Carbon"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Noble Gases and Transition Metals",
+"questions": [
+{
+"question": "Who discovered argon in 1894?",
+"options": {
+"A": "Lord Rayleigh and Sir William Ramsay",
+"B": "Niels Bohr",
+"C": "Henry Cavendish",
+"D": "Friedrich Dorn"
+},
+"answer": "A"
+},
+{
+"question": "Which noble gas is used in radiation therapy due to its radioactivity?",
+"options": {
+"A": "Helium",
+"B": "Xenon",
+"C": "Radon",
+"D": "Krypton"
+},
+"answer": "C"
+},
+{
+"question": "Which of these is not considered a transition metal because its d-shell is full?",
+"options": {
+"A": "Iron",
+"B": "Copper",
+"C": "Zinc",
+"D": "Chromium"
+},
+"answer": "C"
+},
+{
+"question": "The first row of transition metals in the periodic table spans from:",
+"options": {
+"A": "Lithium to Neon",
+"B": "Sodium to Argon",
+"C": "Scandium to Zinc",
+"D": "Yttrium to Cadmium"
+},
+"answer": "C"
+},
+{
+"question": "Which noble gas emits an orange-red glow when an electrical discharge is passed through it?",
+"options": {
+"A": "Helium",
+"B": "Neon",
+"C": "Argon",
+"D": "Xenon"
+},
+"answer": "B"
+}
+]
+}
+]
+}

@@ -1,0 +1,550 @@
+{
+"course": "CHM 221",
+"sections": [
+{
+"section": "Reaction Mechanisms and Basics",
+"questions": [
+{
+"question": "What is the step-by-step pathway by which reactants are converted to products called?",
+"options": {
+"A": "Reaction Rate",
+"B": "Reaction Mechanism",
+"C": "Chemical Kinetics",
+"D": "Molecularity"
+},
+"answer": "B"
+},
+{
+"question": "A curvy arrow in organic reaction mechanisms represents the movement of:",
+"options": {
+"A": "A single electron",
+"B": "A pair of electrons",
+"C": "A proton",
+"D": "An atom"
+},
+"answer": "B"
+},
+{
+"question": "In a reaction mechanism, what does the head of a curvy arrow indicate?",
+"options": {
+"A": "The source of electrons",
+"B": "The leaving group",
+"C": "The final destination of the electron pair",
+"D": "The catalyst"
+},
+"answer": "C"
+},
+{
+"question": "Which type of reaction involves the addition of oxygen or the removal of hydrogen?",
+"options": {
+"A": "Reduction",
+"B": "Substitution",
+"C": "Oxidation",
+"D": "Elimination"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Substitution and Addition Reactions",
+"questions": [
+{
+"question": "What occurs when an atom or group is replaced by another during a reaction?",
+"options": {
+"A": "Addition reaction",
+"B": "Substitution reaction",
+"C": "Elimination reaction",
+"D": "Rearrangement"
+},
+"answer": "B"
+},
+{
+"question": "An SN1 reaction follows which type of kinetics?",
+"options": {
+"A": "Zero order",
+"B": "First order",
+"C": "Second order",
+"D": "Third order"
+},
+"answer": "B"
+},
+{
+"question": "Which type of alkyl halide is most favored by the SN1 mechanism?",
+"options": {
+"A": "Primary",
+"B": "Secondary",
+"C": "Tertiary",
+"D": "Methyl"
+},
+"answer": "C"
+},
+{
+"question": "In an SN2 reaction, how many species are involved in the rate-determining step?",
+"options": {
+"A": "One",
+"B": "Two",
+"C": "Three",
+"D": "None"
+},
+"answer": "B"
+},
+{
+"question": "The rate of an SN2 reaction is proportional to the concentration of:",
+"options": {
+"A": "Substrate only",
+"B": "Nucleophile only",
+"C": "Both substrate and nucleophile",
+"D": "The solvent only"
+},
+"answer": "C"
+},
+{
+"question": "Which of the following is an example of an electrophilic addition reaction?",
+"options": {
+"A": "Benzene + Nitric Acid",
+"B": "Alkene + HCl",
+"C": "Alkyl Halide + OH-",
+"D": "Methane + Bromine"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Elimination and Rearrangement Reactions",
+"questions": [
+{
+"question": "Which reaction type is considered the reverse of an addition reaction?",
+"options": {
+"A": "Substitution",
+"B": "Oxidation",
+"C": "Elimination",
+"D": "Rearrangement"
+},
+"answer": "C"
+},
+{
+"question": "At high temperatures, which type of reaction is typically favored over substitution?",
+"options": {
+"A": "Addition",
+"B": "Elimination",
+"C": "Reduction",
+"D": "Rearrangement"
+},
+"answer": "B"
+},
+{
+"question": "E1 reactions are characterized by the formation of which intermediate?",
+"options": {
+"A": "Carbanion",
+"B": "Free radical",
+"C": "Carbocation",
+"D": "Nitrene"
+},
+"answer": "C"
+},
+{
+"question": "What is the molecularity of an E2 reaction?",
+"options": {
+"A": "Unimolecular",
+"B": "Bimolecular",
+"C": "Termolecular",
+"D": "Non-molecular"
+},
+"answer": "B"
+},
+{
+"question": "The conversion of n-butane to isobutane is an example of what type of reaction?",
+"options": {
+"A": "Elimination",
+"B": "Addition",
+"C": "Rearrangement",
+"D": "Substitution"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Allicyclic Hydrocarbons",
+"questions": [
+{
+"question": "What is the general formula for a saturated monocycle cycloalkane?",
+"options": {
+"A": "CnH2n+2",
+"B": "CnH2n",
+"C": "CnH2n-2",
+"D": "CnHn"
+},
+"answer": "B"
+},
+{
+"question": "Which cycloalkane has the highest strain energy per CH2 unit?",
+"options": {
+"A": "Cyclobutane",
+"B": "Cyclopentane",
+"C": "Cyclohexane",
+"D": "Cyclopropane"
+},
+"answer": "D"
+},
+{
+"question": "What is the C-C-C bond angle in a planar cyclopropane molecule?",
+"options": {
+"A": "109.5 degrees",
+"B": "90 degrees",
+"C": "60 degrees",
+"D": "120 degrees"
+},
+"answer": "C"
+},
+{
+"question": "Which conformation of cyclohexane is considered the most stable and strain-free?",
+"options": {
+"A": "Boat",
+"B": "Twist-boat",
+"C": "Chair",
+"D": "Envelope"
+},
+"answer": "C"
+},
+{
+"question": "What name is given to the deviation from the normal 109.5-degree bond angle in small rings?",
+"options": {
+"A": "Torsional strain",
+"B": "Angle strain",
+"C": "Van der Waals strain",
+"D": "Pitzer strain"
+},
+"answer": "B"
+},
+{
+"question": "The 'envelope' conformation is the most stable for which cycloalkane?",
+"options": {
+"A": "Cyclopropane",
+"B": "Cyclobutane",
+"C": "Cyclopentane",
+"D": "Cyclohexane"
+},
+"answer": "C"
+},
+{
+"question": "Which cycloalkanes are found naturally in petroleum?",
+"options": {
+"A": "Cyclopropane and Cyclobutane",
+"B": "Cyclopentane and Cyclohexane",
+"C": "Cyclohexane and Cycloheptane",
+"D": "Only Cyclohexane"
+},
+"answer": "B"
+},
+{
+"question": "What is the name of the reaction that synthesizes cyclopropane from an alkene and diiodomethane?",
+"options": {
+"A": "Diels-Alder reaction",
+"B": "Simmon-Smith reaction",
+"C": "Baeyer reaction",
+"D": "Kekule reaction"
+},
+"answer": "B"
+},
+{
+"question": "A [4+2] cycloaddition reaction used to prepare cyclic systems is called:",
+"options": {
+"A": "Friedel-Crafts reaction",
+"B": "Diels-Alder reaction",
+"C": "Wurtz reaction",
+"D": "Grignard reaction"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Aromatic Hydrocarbons",
+"questions": [
+{
+"question": "What is the common molecular formula for benzene?",
+"options": {
+"A": "C6H12",
+"B": "C6H6",
+"C": "C6H10",
+"D": "C5H5"
+},
+"answer": "B"
+},
+{
+"question": "Which theory explains the delocalization of six pi-electrons in benzene?",
+"options": {
+"A": "Valence Bond Theory",
+"B": "Molecular Orbital Theory",
+"C": "Crystal Field Theory",
+"D": "VSEPR Theory"
+},
+"answer": "B"
+},
+{
+"question": "Benzene primarily undergoes which type of reaction to preserve its unsaturated ring?",
+"options": {
+"A": "Addition",
+"B": "Substitution",
+"C": "Elimination",
+"D": "Oxidation"
+},
+"answer": "B"
+},
+{
+"question": "What is the bond angle between carbon atoms in a benzene ring?",
+"options": {
+"A": "60 degrees",
+"B": "90 degrees",
+"C": "109.5 degrees",
+"D": "120 degrees"
+},
+"answer": "D"
+},
+{
+"question": "Which of the following is a characteristic property of aromatic compounds?",
+"options": {
+"A": "Easily decolourise bromine water",
+"B": "High resonance energy and stability",
+"C": "Non-planar structure",
+"D": "Rapid reaction with KMnO4"
+},
+"answer": "B"
+},
+{
+"question": "What hybridisation state do carbon atoms in benzene possess?",
+"options": {
+"A": "sp",
+"B": "sp2",
+"C": "sp3",
+"D": "dsp2"
+},
+"answer": "B"
+},
+{
+"question": "Benzene reacts with nitric acid in the presence of H2SO4 to form nitrobenzene. This is an example of:",
+"options": {
+"A": "Nucleophilic substitution",
+"B": "Electrophilic substitution",
+"C": "Free radical substitution",
+"D": "Electrophilic addition"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Stereochemistry and Conformations",
+"questions": [
+{
+"question": "Isomers that differ only in the spatial arrangement of atoms due to restricted rotation in a ring are:",
+"options": {
+"A": "Structural isomers",
+"B": "Geometric isomers",
+"C": "Chain isomers",
+"D": "Position isomers"
+},
+"answer": "B"
+},
+{
+"question": "In 1,2-dimethylcyclopropane, if the two methyl groups are on the same side of the ring, the isomer is:",
+"options": {
+"A": "Trans",
+"B": "Cis",
+"C": "Ortho",
+"D": "Para"
+},
+"answer": "B"
+},
+{
+"question": "The 'butterfly' conformation is associated with which cycloalkane?",
+"options": {
+"A": "Cyclopropane",
+"B": "Cyclobutane",
+"C": "Cyclohexane",
+"D": "Benzene"
+},
+"answer": "B"
+},
+{
+"question": "In the chair conformation of cyclohexane, the two types of hydrogen positions are:",
+"options": {
+"A": "Cis and Trans",
+"B": "Axial and Equatorial",
+"C": "Primary and Secondary",
+"D": "Alpha and Beta"
+},
+"answer": "B"
+},
+{
+"question": "The conversion between the chair and boat conformations of cyclohexane involves:",
+"options": {
+"A": "Breaking C-C bonds",
+"B": "Rotation about C-C single bonds",
+"C": "Loss of hydrogen atoms",
+"D": "Changes in hybridisation"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "General Organic Principles",
+"questions": [
+{
+"question": "Reactions occurring in polar conditions are usually run in which type of solvents?",
+"options": {
+"A": "Hexane",
+"B": "Water or Alcohol",
+"C": "Benzene",
+"D": "Ether"
+},
+"answer": "B"
+},
+{
+"question": "A free radical reaction typically occurs in the presence of:",
+"options": {
+"A": "Low temperature",
+"B": "Ultraviolet radiation (UV)",
+"C": "Polar solvents",
+"D": "Lewis acids"
+},
+"answer": "B"
+},
+{
+"question": "Which reagent is commonly used for allylic bromination in cycloalkenes?",
+"options": {
+"A": "Br2 in CCl4",
+"B": "N-Bromo Succinimide (NBS)",
+"C": "HBr",
+"D": "PBr3"
+},
+"answer": "B"
+},
+{
+"question": "The Baeyer's strain theory assumes that all cycloalkane rings are:",
+"options": {
+"A": "Non-planar",
+"B": "Planar",
+"C": "Spherical",
+"D": "Tetrahedral"
+},
+"answer": "B"
+},
+{
+"question": "Which property of benzene explains why it does not decolourise bromine water?",
+"options": {
+"A": "It is highly saturated",
+"B": "Its pi-electrons are delocalised and stable",
+"C": "It is a liquid at room temperature",
+"D": "It has no double bonds"
+},
+"answer": "B"
+},
+{
+"question": "The number of degrees of freedom (F) for a 1-component, 3-phase system is:",
+"options": {
+"A": "0",
+"B": "1",
+"C": "2",
+"D": "3"
+},
+"answer": "A"
+},
+{
+"question": "In the nomenclature of bicyclic compounds, numbering starts from the:",
+"options": {
+"A": "Substituent",
+"B": "Bridge-head carbon",
+"C": "Smallest ring",
+"D": "Double bond"
+},
+"answer": "B"
+},
+{
+"question": "Testosterone is an example of which type of organic compound structure?",
+"options": {
+"A": "Acyclic",
+"B": "Polycyclic",
+"C": "Monocyclic",
+"D": "Aromatic"
+},
+"answer": "B"
+},
+{
+"question": "Reduction in organic chemistry involves the:",
+"options": {
+"A": "Loss of electrons",
+"B": "Addition of hydrogen",
+"C": "Addition of oxygen",
+"D": "Increase in oxidation state"
+},
+"answer": "B"
+},
+{
+"question": "Which of these cycloalkanes has the least strain energy?",
+"options": {
+"A": "Cyclopropane",
+"B": "Cyclobutane",
+"C": "Cyclopentane",
+"D": "Cyclohexane"
+},
+"answer": "D"
+},
+{
+"question": "A reaction where the rate is proportional to only one reactant concentration is called:",
+"options": {
+"A": "Bimolecular",
+"B": "Unimolecular",
+"C": "Termolecular",
+"D": "Zero-molecular"
+},
+"answer": "B"
+},
+{
+"question": "The prefix used for naming open-chain hydrocarbons that have been converted to rings is:",
+"options": {
+"A": "Iso-",
+"B": "Neo-",
+"C": "Cyclo-",
+"D": "Poly-"
+},
+"answer": "C"
+},
+{
+"question": "Which intermediate is formed during the nitration of benzene?",
+"options": {
+"A": "Free radical",
+"B": "Benzenonium ion",
+"C": "Carbanion",
+"D": "Benzyne"
+},
+"answer": "B"
+},
+{
+"question": "Diels-Alder reactions are typically driven by:",
+"options": {
+"A": "Light",
+"B": "Heat",
+"C": "Acids",
+"D": "Bases"
+},
+"answer": "B"
+},
+{
+"question": "What is the result of hydrogenation of benzene at 200°C with a Ni catalyst?",
+"options": {
+"A": "n-Hexane",
+"B": "Cyclohexene",
+"C": "Cyclohexane",
+"D": "1,3-Cyclohexadiene"
+},
+"answer": "C"
+}
+]
+}
+]
+}
