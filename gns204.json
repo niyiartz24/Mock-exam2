@@ -1,0 +1,205 @@
+{
+"course": "GNS 204/CGNS",
+"sections": [
+{
+"section": "INTRODUCTION TO LOGIC",
+"questions": [
+{
+"question": "The Greek word 'logos', from which the term 'logic' is derived, literally means which of the following?",
+"options": {
+"A": "Sentence or discourse",
+"B": "Emotion or feeling",
+"C": "Action or movement",
+"D": "Myth or legend"
+},
+"answer": "A"
+},
+{
+"question": "What is the primary concern of logic as a field of study?",
+"options": {
+"A": "The study of ancient languages",
+"B": "The principles of correct reasoning",
+"C": "The history of Greek philosophy",
+"D": "The psychological process of dreaming"
+},
+"answer": "B"
+},
+{
+"question": "Which ancient philosopher developed the system of 'syllogism'?",
+"options": {
+"A": "Plato",
+"B": "Socrates",
+"C": "Aristotle",
+"D": "Heraclitus"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "BASIC CONCEPTS IN LOGIC",
+"questions": [
+{
+"question": "What is a 'proposition' in the context of formal logic?",
+"options": {
+"A": "A question asked to an audience",
+"B": "An exclamation of surprise",
+"C": "A command given to a subordinate",
+"D": "A declarative statement that is either true or false"
+},
+"answer": "D"
+},
+{
+"question": "In an argument, what are the propositions that provide grounds or reasons for accepting a conclusion called?",
+"options": {
+"A": "Consequents",
+"B": "Premisses",
+"C": "Interrogatives",
+"D": "Fallacies"
+},
+"answer": "B"
+},
+{
+"question": "Which of these is a 'conclusion indicator'?",
+"options": {
+"A": "Because",
+"B": "Since",
+"C": "Therefore",
+"D": "For"
+},
+"answer": "C"
+},
+{
+"question": "Which logical connective represents the 'if...then' (conditional) relationship?",
+"options": {
+"A": "Conjunction (.)",
+"B": "Disjunction (v)",
+"C": "Implication (⊃)",
+"D": "Negation (~)"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "TYPES OF ARGUMENTS AND VALIDITY",
+"questions": [
+{
+"question": "An argument is said to be 'valid' when:",
+"options": {
+"A": "The conclusion is funny",
+"B": "The premisses are definitely false",
+"C": "The conclusion follows necessarily from the premisses",
+"D": "The premisses are longer than the conclusion"
+},
+"answer": "C"
+},
+{
+"question": "What kind of argument is one where the premisses are claimed to provide 'conclusive' grounds for the truth of the conclusion?",
+"options": {
+"A": "Inductive argument",
+"B": "Deductive argument",
+"C": "Fallacious argument",
+"D": "Ambiguous argument"
+},
+"answer": "B"
+},
+{
+"question": "A 'sound' deductive argument must be valid and have:",
+"options": {
+"A": "Only false premisses",
+"B": "True premisses",
+"C": "A circular structure",
+"D": "Emotional appeal"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "CATEGORICAL PROPOSITIONS AND SYLLOGISMS",
+"questions": [
+{
+"question": "In a categorical syllogism, what is the 'major term'?",
+"options": {
+"A": "The subject of the conclusion",
+"B": "The predicate of the conclusion",
+"C": "The term that appears in both premisses but not the conclusion",
+"D": "The first word of the argument"
+},
+"answer": "B"
+},
+{
+"question": "A categorical proposition of the form 'All S are P' is known as which type?",
+"options": {
+"A": "A proposition",
+"B": "E proposition",
+"C": "I proposition",
+"D": "O proposition"
+},
+"answer": "A"
+},
+{
+"question": "The 'middle term' in a syllogism is the term that:",
+"options": {
+"A": "Appears in the conclusion only",
+"B": "Appears in both premisses but not the conclusion",
+"C": "Is always the last word of the premiss",
+"D": "Links the subject to the predicate in a single statement"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "LOGICAL FALLACIES",
+"questions": [
+{
+"question": "Which fallacy involves the blatant introduction of an unrelated issue to deflect from the original argument?",
+"options": {
+"A": "Slippery slope",
+"B": "Red Herring",
+"C": "Hasty conclusion",
+"D": "False Cause"
+},
+"answer": "B"
+},
+{
+"question": "The 'Slippery Slope' fallacy is best described as:",
+"options": {
+"A": "Attacking the person instead of the argument",
+"B": "The unwarranted belief that things will always turn out in a particular way regardless of events",
+"C": "Using a word with two different meanings",
+"D": "Drawing a general conclusion from a small sample"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "METHODOLOGY OF SCIENCE",
+"questions": [
+{
+"question": "According to the PDF, what is the first step in the simple method of science?",
+"options": {
+"A": "Hypothesis",
+"B": "Experiment",
+"C": "Observation",
+"D": "Inference"
+},
+"answer": "C"
+},
+{
+"question": "A scientific assumption that matures into a theory or law is initially called a:",
+"options": {
+"A": "Fact",
+"B": "Conclusion",
+"C": "Hypothesis",
+"D": "Syllogism"
+},
+"answer": "C"
+}
+]
+}
+]
+}

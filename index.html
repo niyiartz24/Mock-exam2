@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CBT Exam Portal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- COURSE SELECTION -->
+<section id="coursePage" class="page active">
+  <div class="hero-title">
+  <img src="images/IMG-20251229-WA0616.jpg" alt="Exam Logo">
+  <h1>MOCK EXAM BY HAZZAZZIN</h1>
+</div>
+
+  <div class="courses">
+    <div class="course-card" data-course="mts105">
+      <h3>MTS 105</h3>
+    </div>
+    <div class="course-card" data-course="chm101">
+      <h3>CHM 101</h3>
+    </div>
+    <div class="course-card" data-course="phs105">
+      <h3>PHS 105</h3>
+  </div>
+  <div class="course-card" data-course="gns101">
+      <h3>GNS 101</h3>
+  </div>
+  
+  <div class="course-banner">
+  <img src="images/IMG-20251218-WA0002.jpg" alt="Students Illustration">
+
+</div>
+<p align = "center">HAZZAZZIN</p>
+</section>
+
+<!-- INSTRUCTIONS -->
+<section id="instructionPage" class="page">
+  <h2 id="courseTitle"></h2>
+  <ul>
+    <li>40 questions</li>
+    <li>10 minutes duration</li>
+    <li>One question at a time</li>
+    <li>Auto-submit when time ends</li>
+  </ul>
+  <button id="startExam">Start Exam</button>
+</section>
+
+<!-- EXAM -->
+<section id="examPage" class="page">
+  <header>
+    <span id="timer">10:00</span>
+    <span id="questionCounter"></span>
+  </header>
+
+  <div class="progress">
+    <div id="progressBar"></div>
+  </div>
+
+  <div id="questionBox"></div>
+
+  <div class="nav">
+    <button id="prevBtn">Previous</button>
+    <button id="nextBtn">Next</button>
+    <button id="submitBtn" class="danger">Submit</button>
+  </div>
+
+  <div id="palette" class="palette"></div>
+</section>
+
+<!-- RESULT -->
+<section id="resultPage" class="page">
+  <h2>Result</h2>
+  <div id="scoreSummary"></div>
+  <div id="answerReview"></div>
+  <button onclick="location.reload()">Back to Courses</button>
+</section>
+<footer>
+  <p>Made by SynthaxLab</p>
+  <p>(c) SynthaxLab 2025</p>
+  <p>Email: synthaxlab2025@gmail.com</p>
+  <p>Contact us @ 09131548724</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,550 @@
+{
+"course": "GNS 203",
+"sections": [
+{
+"section": "Introduction to Libraries",
+"questions": [
+{
+"question": "Which component of a library is described as the physical structure housing books, staff, and equipment?",
+"options": {
+"A": "Collections",
+"B": "Building and facilities",
+"C": "Library personnel",
+"D": "Users"
+},
+"answer": "B"
+},
+{
+"question": "Which type of library serves students from Kindergarten to grade 12?",
+"options": {
+"A": "Academic library",
+"B": "Public library",
+"C": "School library",
+"D": "Special library"
+},
+"answer": "C"
+},
+{
+"question": "Academic libraries are established to serve which of the following institutions?",
+"options": {
+"A": "Hospitals and corporations",
+"B": "Cities and towns",
+"C": "Colleges of education, polytechnics and universities",
+"D": "Prisoners and sick people"
+},
+"answer": "C"
+},
+{
+"question": "Which library is set up, equipped, and managed by individuals?",
+"options": {
+"A": "Public Library",
+"B": "National Library",
+"C": "Private Library",
+"D": "Special Library"
+},
+"answer": "C"
+},
+{
+"question": "What is the primary function of a National Library?",
+"options": {
+"A": "To serve local government areas",
+"B": "To serve as the depository of all copyright publications within a country",
+"C": "To provide clinical information to doctors",
+"D": "To provide textbooks for primary school students"
+},
+"answer": "B"
+},
+{
+"question": "Which component is considered the 'soul' of the library, without which there would be no library?",
+"options": {
+"A": "Building",
+"B": "Collections",
+"C": "Furniture",
+"D": "Air conditioning"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Plagiarism and Referencing",
+"questions": [
+{
+"question": "What is the term for using another student's work with their permission?",
+"options": {
+"A": "Verbatim copying",
+"B": "Collusion",
+"C": "Purloining",
+"D": "Self-plagiarism"
+},
+"answer": "B"
+},
+{
+"question": "Which type of plagiarism involves an author using their own previous works without acknowledgement?",
+"options": {
+"A": "Patch writing",
+"B": "Purloining",
+"C": "Self-plagiarism",
+"D": "Verbatim copying"
+},
+"answer": "C"
+},
+{
+"question": "What is the primary purpose of a citation in an intellectual work?",
+"options": {
+"A": "To increase the word count",
+"B": "To direct readers to the source of ideas used",
+"C": "To summarize the entire book",
+"D": "To replace the reference list"
+},
+"answer": "B"
+},
+{
+"question": "What does the Latin term 'et al.' mean in referencing?",
+"options": {
+"A": "And the rest",
+"B": "And others",
+"C": "In the same place",
+"D": "Following page"
+},
+"answer": "B"
+},
+{
+"question": "In APA style, if a source has no date, what abbreviation is used?",
+"options": {
+"A": "no.d.",
+"B": "d.n.",
+"C": "n.d.",
+"D": "u.d."
+},
+"answer": "C"
+},
+{
+"question": "Using someone's work without their permission is known as?",
+"options": {
+"A": "Collusion",
+"B": "Purloining",
+"C": "Citing",
+"D": "Reviewing"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Organization and Access",
+"questions": [
+{
+"question": "Which library unit is concerned with building up library collections through purchase, gift, or exchange?",
+"options": {
+"A": "Cataloguing unit",
+"B": "Acquisition unit",
+"C": "Circulation unit",
+"D": "Serials unit"
+},
+"answer": "B"
+},
+{
+"question": "What does the acronym OPAC stand for?",
+"options": {
+"A": "Online Public Access Catalogue",
+"B": "Official Public Academic Centre",
+"C": "Ordered Print Access Card",
+"D": "Online Private Access Catalogue"
+},
+"answer": "A"
+},
+{
+"question": "Which cataloguing code is most widely used in general libraries for constructing catalogs?",
+"options": {
+"A": "MARC21",
+"B": "AACR2",
+"C": "DDC",
+"D": "LCC"
+},
+"answer": "B"
+},
+{
+"question": "What is the standard size of a traditional catalogue card?",
+"options": {
+"A": "3 x 5 inches",
+"B": "4 x 6 inches",
+"C": "5 x 7 inches",
+"D": "2 x 4 inches"
+},
+"answer": "A"
+},
+{
+"question": "Which department is responsible for affixing ownership stamps and registering resources in the accession register?",
+"options": {
+"A": "Reference Department",
+"B": "Acquisitions Department",
+"C": "Security Department",
+"D": "Bindery Department"
+},
+"answer": "B"
+},
+{
+"question": "In a card catalogue, what are the three specific access points?",
+"options": {
+"A": "Author, Title, and Date",
+"B": "Author, Publisher, and ISBN",
+"C": "Author, Title, and Subject",
+"D": "Title, Subject, and Call Number"
+},
+"answer": "C"
+},
+{
+"question": "Which classification scheme is used by the university library mentioned in the text?",
+"options": {
+"A": "Dewey Decimal Classification",
+"B": "Library of Congress Classification",
+"C": "Universal Decimal Classification",
+"D": "Bliss Classification"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Library Resources and Materials",
+"questions": [
+{
+"question": "A book is defined as a number of printed pages of not less than how many pages?",
+"options": {
+"A": "10 pages",
+"B": "25 pages",
+"C": "49 pages",
+"D": "100 pages"
+},
+"answer": "C"
+},
+{
+"question": "If a printed publication has fewer than 49 pages, it is called a?",
+"options": {
+"A": "Journal",
+"B": "Pamphlet",
+"C": "Manuscript",
+"D": "Periodical"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following is a type of non-fiction material?",
+"options": {
+"A": "Novel",
+"B": "Short story",
+"C": "Textbook",
+"D": "Play"
+},
+"answer": "C"
+},
+{
+"question": "Which reference material contains factual and comprehensive information on all subjects?",
+"options": {
+"A": "Dictionary",
+"B": "Gazetteer",
+"C": "Encyclopedia",
+"D": "Almanac"
+},
+"answer": "C"
+},
+{
+"question": "Which reference book provides information about the meaning, spelling, and pronunciation of words?",
+"options": {
+"A": "Encyclopedia",
+"B": "Dictionary",
+"C": "Atlas",
+"D": "Yearbook"
+},
+"answer": "B"
+},
+{
+"question": "A collection of maps is known as an?",
+"options": {
+"A": "Index",
+"B": "Abstract",
+"C": "Atlas",
+"D": "Almanac"
+},
+"answer": "C"
+},
+{
+"question": "What is a 'Gazetteer'?",
+"options": {
+"A": "A dictionary of dates",
+"B": "A dictionary of places",
+"C": "A manual of instructions",
+"D": "A list of famous people"
+},
+"answer": "B"
+},
+{
+"question": "Which material contains a brief summary of the content of an article or book?",
+"options": {
+"A": "Index",
+"B": "Abstract",
+"C": "Gazetteer",
+"D": "Directory"
+},
+"answer": "B"
+},
+{
+"question": "Which resource is published periodically, ranging from monthly to twice a year, for scholars to share research?",
+"options": {
+"A": "Dictionary",
+"B": "Journal",
+"C": "Textbook",
+"D": "Encyclopedia"
+},
+"answer": "B"
+},
+{
+"question": "Which component of a journal article provides a brief summary of what the article is about?",
+"options": {
+"A": "Keywords",
+"B": "Abstract",
+"C": "References",
+"D": "Editorial page"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "E-Resources and Search Strategies",
+"questions": [
+{
+"question": "In search strategies, which Boolean operator is used to ensure all search words are present in the results?",
+"options": {
+"A": "OR",
+"B": "NOT",
+"C": "AND",
+"D": "BUT"
+},
+"answer": "C"
+},
+{
+"question": "What is the function of the asterisk (*) symbol in truncation searching?",
+"options": {
+"A": "To exclude a term",
+"B": "To search the root of a word for different endings",
+"C": "To find exact phrases only",
+"D": "To limit results to full text"
+},
+"answer": "B"
+},
+{
+"question": "Which database is described as a comprehensive collection for population and reproductive health literature?",
+"options": {
+"A": "AGORA",
+"B": "HINARI",
+"C": "Popline",
+"D": "TEEAL"
+},
+"answer": "C"
+},
+{
+"question": "What does DOI stand for in electronic resources?",
+"options": {
+"A": "Data Output Interface",
+"B": "Digital Object Identifier",
+"C": "Digital Online Index",
+"D": "Direct Object Information"
+},
+"answer": "B"
+},
+{
+"question": "Which Boolean operator is used to broaden a search by finding records with any of the keywords?",
+"options": {
+"A": "AND",
+"B": "OR",
+"C": "NOT",
+"D": "WITH"
+},
+"answer": "B"
+},
+{
+"question": "What is the main disadvantage of keyword searching?",
+"options": {
+"A": "It is too slow",
+"B": "You only find records that contain the exact terms typed",
+"C": "It requires a password",
+"D": "It only works on Google"
+},
+"answer": "B"
+},
+{
+"question": "Which database focuses on agricultural research and is accessible via www.aginternetwork.org?",
+"options": {
+"A": "HINARI",
+"B": "AGORA",
+"C": "JSTOR",
+"D": "PubMed"
+},
+"answer": "B"
+},
+{
+"question": "Which database is specifically for health-related research initiatives?",
+"options": {
+"A": "AGORA",
+"B": "HINARI",
+"C": "TEEAL",
+"D": "Popline"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Study Skills",
+"questions": [
+{
+"question": "In the PQRST method of study, what does the 'P' stand for?",
+"options": {
+"A": "Practice",
+"B": "Preview",
+"C": "Perform",
+"D": "Prepare"
+},
+"answer": "B"
+},
+{
+"question": "Which study skill involves linking concepts together in a visual, spider-like form?",
+"options": {
+"A": "Acronyms",
+"B": "Mnemonics",
+"C": "Spider diagrams",
+"D": "Rote learning"
+},
+"answer": "C"
+},
+{
+"question": "What is the study skill that coines a new name from the first letters of a phrase?",
+"options": {
+"A": "Mnemonic",
+"B": "Acronym",
+"C": "Spider Diagram",
+"D": "Flashcard"
+},
+"answer": "B"
+},
+{
+"question": "Which study method involves deliberate memorization for later recall, like telephone numbers?",
+"options": {
+"A": "Critical thinking",
+"B": "Rehearsal and rote learning",
+"C": "Summarization",
+"D": "Note-taking"
+},
+"answer": "B"
+},
+{
+"question": "What is the advantage of using diagrams as a tool for effective study?",
+"options": {
+"A": "They take less time to draw",
+"B": "They can be more easily recalled",
+"C": "They replace the need for textbooks",
+"D": "They are required by examiners"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following is an example of an examination strategy?",
+"options": {
+"A": "Sleeping 10 hours a day",
+"B": "Reading examination instructions properly",
+"C": "Eating a heavy meal before the exam",
+"D": "Leaving early without checking work"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Library Rules and Services",
+"questions": [
+{
+"question": "Where are library rules and regulations usually contained?",
+"options": {
+"A": "Dictionary",
+"B": "Readers' Guide or Students' Handbook",
+"C": "Daily newspapers",
+"D": "Encyclopedia Britannica"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following is prohibited in the library?",
+"options": {
+"A": "Consulting books",
+"B": "Use of cell phones",
+"C": "Leaving books on the table",
+"D": "Reading newspapers"
+},
+"answer": "B"
+},
+{
+"question": "What is the penalty for keeping library materials beyond the return date?",
+"options": {
+"A": "Suspension from school",
+"B": "Fine",
+"C": "Imprisonment",
+"D": "Loss of student ID"
+},
+"answer": "B"
+},
+{
+"question": "Which service involves directing a reader to another library for information?",
+"options": {
+"A": "Translation service",
+"B": "Referral service",
+"C": "Extension service",
+"D": "Photocopy service"
+},
+"answer": "B"
+},
+{
+"question": "What is Selective Dissemination of Information (SDI)?",
+"options": {
+"A": "Selling books to students",
+"B": "Providing users with specific information to promote research",
+"C": "Translating books into local languages",
+"D": "Lending books to other countries"
+},
+"answer": "B"
+},
+{
+"question": "Extension and outreach services are designed to serve which group?",
+"options": {
+"A": "Full-time students",
+"B": "People who cannot come to the library (e.g., prisoners, sick people)",
+"C": "Library staff",
+"D": "University professors"
+},
+"answer": "B"
+},
+{
+"question": "Which unit processes materials by affixing ownership stamps?",
+"options": {
+"A": "Serials Unit",
+"B": "Acquisitions Department",
+"C": "Circulation Unit",
+"D": "Reserve Unit"
+},
+"answer": "B"
+},
+{
+"question": "What is the purpose of the accession register?",
+"options": {
+"A": "To record student attendance",
+"B": "To register library resources",
+"C": "To keep track of staff salaries",
+"D": "To list the library's rules"
+},
+"answer": "B"
+}
+]
+}
+]
+}
