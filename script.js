@@ -8,6 +8,15 @@ let submitted = false;
 
 const pages = document.querySelectorAll(".page");
 
+// Fix: declare the missing DOM elements
+const timerEl = document.getElementById("timer");
+const nextBtn = document.getElementById("nextBtn");
+const prevBtn = document.getElementById("prevBtn");
+const submitBtn = document.getElementById("submitBtn");
+const palette = document.getElementById("palette");
+const scoreSummary = document.getElementById("scoreSummary");
+const answerReview = document.getElementById("answerReview");
+
 /* ---------------- PAGE NAV ---------------- */
 function showPage(id) {
   pages.forEach(p => p.classList.remove("active"));
@@ -46,7 +55,7 @@ document.getElementById("startExam").onclick = async () => {
     timeLeft = 600;
 
     showPage("examPage");
-    startTimer();
+    startTimer(); // Timer now works
     buildPalette();
     loadQuestion();
 
